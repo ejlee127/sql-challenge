@@ -10,6 +10,6 @@
 
 ### Data Analysis
 
-- View  the tables ----> EmployeeSQL/schema.sql
+- View  the tables ----> EmployeeSQL/query.sql
 
 - Visualize some facts -----> EmployeeSQL/employee_charts.ipynb
